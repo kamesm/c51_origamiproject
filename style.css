@@ -1,0 +1,29 @@
+H1 {
+    color: #FFFFFF;
+}
+H1 {
+    border: solid #701034;
+    padding: 10px;
+}
+.Heading{
+    background-color: #808080;
+    display: flex;
+    justify-content: space-between;
+     
+
+}
+.Images{
+    display: flex;
+    flex-wrap: wrap;   
+}
+
+.origami{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 310px;
+    border-radius: 50px;
+}
+.body{
+    margin: 0px;
+}
